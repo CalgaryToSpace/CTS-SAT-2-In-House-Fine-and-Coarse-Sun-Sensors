@@ -1,0 +1,6 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "6p550") (type "KiCad") (uri "${KIPRJMOD}/Libraries/6p550-5363p01-4_VIS/2026-07-24_19-48-05.kicad_sym") (options "") (descr ""))
+	(lib (name "POPA4383") (type "KiCad") (uri "${KIPRJMOD}/Libraries/ul_POPA4383PWR/2026-07-24_21-46-02.kicad_sym") (options "") (descr ""))
+	(lib (name "WQFN16") (type "KiCad") (uri "${KIPRJMOD}/Libraries/WQFN16_RTE_TEX-M/2026-07-24_20-24-31.kicad_sym") (options "") (descr ""))
+)

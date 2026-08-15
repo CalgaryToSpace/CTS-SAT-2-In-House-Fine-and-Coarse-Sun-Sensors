@@ -5462,7 +5462,7 @@
 				)
 			)
 		)
-		(property "Footprint" "6p550-5363p01-4_VIS"
+		(property "Footprint" "6p550-5363p01-4_VIS footprints:6p550-5363p01-4_VIS"
 			(at 180.34 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -5704,7 +5704,7 @@
 				)
 			)
 		)
-		(property "Footprint" "6p550-5363p01-4_VIS"
+		(property "Footprint" "6p550-5363p01-4_VIS footprints:6p550-5363p01-4_VIS"
 			(at 58.42 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -5945,7 +5945,7 @@
 				)
 			)
 		)
-		(property "Footprint" "WQFN16_RTE_TEX"
+		(property "Footprint" "WQFN16_RTE_TEX-M footprints:WQFN16_RTE_TEX"
 			(at 201.93 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -6072,7 +6072,7 @@
 				)
 			)
 		)
-		(property "Footprint" "6p550-5363p01-4_VIS"
+		(property "Footprint" "6p550-5363p01-4_VIS footprints:6p550-5363p01-4_VIS"
 			(at 58.42 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -6728,7 +6728,7 @@
 				)
 			)
 		)
-		(property "Footprint" "6p550-5363p01-4_VIS"
+		(property "Footprint" "6p550-5363p01-4_VIS footprints:6p550-5363p01-4_VIS"
 			(at 58.42 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -7298,7 +7298,7 @@
 				)
 			)
 		)
-		(property "Footprint" "6p550-5363p01-4_VIS"
+		(property "Footprint" "6p550-5363p01-4_VIS footprints:6p550-5363p01-4_VIS"
 			(at 58.42 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -7949,7 +7949,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TSSOP_PW_14_TEX"
+		(property "Footprint" "ul_POPA4383PWR footprints:TSSOP_PW_14_TEX"
 			(at 97.79 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -8229,7 +8229,7 @@
 				)
 			)
 		)
-		(property "Footprint" "6p550-5363p01-4_VIS"
+		(property "Footprint" "6p550-5363p01-4_VIS footprints:6p550-5363p01-4_VIS"
 			(at 58.42 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -8311,7 +8311,7 @@
 				)
 			)
 		)
-		(property "Footprint" "6p550-5363p01-4_VIS"
+		(property "Footprint" "6p550-5363p01-4_VIS footprints:6p550-5363p01-4_VIS"
 			(at 58.42 20.32 0)
 			(hide yes)
 			(show_name no)
@@ -8637,7 +8637,7 @@
 				)
 			)
 		)
-		(property "Footprint" "6p550-5363p01-4_VIS"
+		(property "Footprint" "6p550-5363p01-4_VIS footprints:6p550-5363p01-4_VIS"
 			(at 58.42 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -9119,7 +9119,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TSSOP_PW_14_TEX"
+		(property "Footprint" "ul_POPA4383PWR footprints:TSSOP_PW_14_TEX"
 			(at 99.06 85.09 0)
 			(hide yes)
 			(show_name no)

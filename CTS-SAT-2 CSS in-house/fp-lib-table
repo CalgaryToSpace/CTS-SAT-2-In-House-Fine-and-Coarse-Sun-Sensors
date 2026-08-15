@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "6p550-5363p01-4_VIS footprints") (type "KiCad") (uri "${KIPRJMOD}/Libraries/6p550-5363p01-4_VIS/6p550-5363p01-4_VIS footprints.pretty") (options "") (descr ""))
+	(lib (name "ul_POPA4383PWR footprints") (type "KiCad") (uri "${KIPRJMOD}/Libraries/ul_POPA4383PWR/ul_POPA4383PWR footprints.pretty") (options "") (descr ""))
+	(lib (name "WQFN16_RTE_TEX-M footprints") (type "KiCad") (uri "${KIPRJMOD}/Libraries/WQFN16_RTE_TEX-M/WQFN16_RTE_TEX-M footprints.pretty") (options "") (descr ""))
+)
