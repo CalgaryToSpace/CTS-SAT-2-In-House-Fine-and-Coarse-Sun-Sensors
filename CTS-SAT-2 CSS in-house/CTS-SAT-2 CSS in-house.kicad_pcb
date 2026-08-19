@@ -379,7 +379,7 @@
 			)
 		)
 	)
-	(footprint "footprints:6p550-5363p01-4_VIS"
+	(footprint "6p550-5363p01-4_VIS footprints:6p550-5363p01-4_VIS"
 		(layer "F.Cu")
 		(uuid "1c1dc0ba-a1aa-4d6e-9e52-d169bd8bb111")
 		(at 131.4196 85.344)
@@ -976,7 +976,7 @@
 			)
 		)
 	)
-	(footprint "ul_POPA FP:TSSOP_PW_14_TEX"
+	(footprint "ul_POPA4383PWR footprints:TSSOP_PW_14_TEX"
 		(layer "F.Cu")
 		(uuid "20a794e5-adf4-4177-8c84-c34281a41d42")
 		(at 115.57 89.154)
@@ -994,7 +994,7 @@
 			)
 		)
 		(property "Value" "POPA4383PWR"
-			(at 1 0 0)
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(uuid "a3dbb323-f76b-435d-b98c-8da1c3873a37")
@@ -2134,7 +2134,7 @@
 			)
 		)
 	)
-	(footprint "footprints:6p550-5363p01-4_VIS"
+	(footprint "6p550-5363p01-4_VIS footprints:6p550-5363p01-4_VIS"
 		(layer "F.Cu")
 		(uuid "229fbfaf-0419-4e2d-a13a-0355e9869ea8")
 		(at 131.3307 91.44)
@@ -3023,7 +3023,7 @@
 			)
 		)
 	)
-	(footprint "footprints:6p550-5363p01-4_VIS"
+	(footprint "6p550-5363p01-4_VIS footprints:6p550-5363p01-4_VIS"
 		(layer "F.Cu")
 		(uuid "3a369130-6fc8-415e-9038-8b9c72b873ef")
 		(at 131.064 75.438)
@@ -3620,7 +3620,7 @@
 			)
 		)
 	)
-	(footprint "ul_POPA FP:TSSOP_PW_14_TEX"
+	(footprint "ul_POPA4383PWR footprints:TSSOP_PW_14_TEX"
 		(layer "F.Cu")
 		(uuid "3c48af85-8c46-4a64-b76b-49c3adb0841f")
 		(at 145.796 88.392)
@@ -4924,7 +4924,7 @@
 			)
 		)
 	)
-	(footprint "footprints:6p550-5363p01-4_VIS"
+	(footprint "6p550-5363p01-4_VIS footprints:6p550-5363p01-4_VIS"
 		(layer "F.Cu")
 		(uuid "3fee507c-6091-40aa-877e-ac3bb8e8fc6b")
 		(at 131.4069 89.408)
@@ -6469,7 +6469,7 @@
 			)
 		)
 	)
-	(footprint "footprints:6p550-5363p01-4_VIS"
+	(footprint "6p550-5363p01-4_VIS footprints:6p550-5363p01-4_VIS"
 		(layer "F.Cu")
 		(uuid "668efb3a-d872-48c5-8922-f8b172ede832")
 		(at 131.4196 87.376)
@@ -9036,7 +9036,7 @@
 			)
 		)
 	)
-	(footprint "footprints:6p550-5363p01-4_VIS"
+	(footprint "6p550-5363p01-4_VIS footprints:6p550-5363p01-4_VIS"
 		(layer "F.Cu")
 		(uuid "9b611bd4-0dd6-4900-afce-fb3b46e3fcf1")
 		(at 131.3307 93.472)
@@ -11311,7 +11311,7 @@
 			)
 		)
 	)
-	(footprint "footprints:6p550-5363p01-4_VIS"
+	(footprint "6p550-5363p01-4_VIS footprints:6p550-5363p01-4_VIS"
 		(layer "F.Cu")
 		(uuid "e924dd9c-c4bf-4ffa-b2a6-cb05b2da2f51")
 		(at 131.3307 95.504)
@@ -11980,7 +11980,7 @@
 			)
 		)
 	)
-	(footprint "footprints:6p550-5363p01-4_VIS"
+	(footprint "6p550-5363p01-4_VIS footprints:6p550-5363p01-4_VIS"
 		(layer "F.Cu")
 		(uuid "f4548aeb-c191-46c2-894e-efa02bc8bb24")
 		(at 131.4069 83.312)
@@ -12431,7 +12431,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "wqfm footprints:WQFN16_RTE_TEX"
+	(footprint "WQFN16_RTE_TEX-M footprints:WQFN16_RTE_TEX"
 		(layer "F.Cu")
 		(uuid "f669fcec-0291-4d22-ad87-44c407e7efea")
 		(at 132.334 104.14 -90)
@@ -12461,7 +12461,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ti.com/lit/gpn/ads7128"
-			(at 0 0 90)
+			(at 0 0 270)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "889d5921-9089-4c62-b93e-f0550286140f")
@@ -12472,7 +12472,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 90)
+			(at 0 0 270)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ce0abd2c-d997-438f-98f4-f116d72fb6d4")
@@ -13519,7 +13519,7 @@
 			(uuid "fd37cbb3-cc81-4058-91e4-a60c099eeafa")
 		)
 		(fp_text user "*"
-			(at -22.1461 -35.418 90)
+			(at -2.5146 -1 270)
 			(layer "F.SilkS")
 			(uuid "ab20fc46-5a3d-4d58-bffa-807b7eb0dc3c")
 			(effects
@@ -13530,7 +13530,7 @@
 			)
 		)
 		(fp_text user "*"
-			(at -22.1461 -35.418 270)
+			(at -2.5146 -1 270)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "ac881b13-8b64-43e3-b3b1-f4107d5b2ae0")
@@ -13554,7 +13554,7 @@
 			)
 		)
 		(fp_text user "*"
-			(at -1.0668 -1 90)
+			(at -1.0668 -1 270)
 			(layer "F.Fab")
 			(uuid "a2408aeb-b4f3-4268-9afd-cbf7bff5217e")
 			(effects
