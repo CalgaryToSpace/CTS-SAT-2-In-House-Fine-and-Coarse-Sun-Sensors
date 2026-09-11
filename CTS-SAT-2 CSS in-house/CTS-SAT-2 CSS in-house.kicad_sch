@@ -6156,7 +6156,7 @@
 		)
 		(uuid "ad0a9371-63b5-4349-820c-5c1934aeb9ad")
 	)
-	(label "COARSE_TIA_OUTPUT"
+	(label "COURSE_TIA_OUTPUT"
 		(at 412.75 41.91 180)
 		(effects
 			(font
@@ -6944,10 +6944,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "85a0ea21-259f-493b-89c0-ccfce38093b2")
+			(uuid "85a0ea21-259f-493b-89c0-ccfce38093b3")
 		)
 		(pin "2"
-			(uuid "d18d1423-7d66-472e-a227-b97bab26d076")
+			(uuid "d18d1423-7d66-472e-a227-b97bab26d077")
 		)
 		(instances
 			(project "CTS-SAT-2 CSS in-house"
@@ -7807,10 +7807,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "85a0ea21-259f-493b-89c0-ccfce38093b2")
+			(uuid "85a0ea21-259f-493b-89c0-ccfce38093b4")
 		)
 		(pin "2"
-			(uuid "d18d1423-7d66-472e-a227-b97bab26d076")
+			(uuid "d18d1423-7d66-472e-a227-b97bab26d078")
 		)
 		(instances
 			(project "CTS-SAT-2 CSS in-house"
@@ -8133,10 +8133,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "17fddd5f-2e70-44b5-9c7d-5cb2f22067ed")
+			(uuid "17fddd5f-2e70-44b5-9c7d-5cb2f22067ee")
 		)
 		(pin "1"
-			(uuid "b7dd437b-566d-4af4-a0e4-45f33e8597d8")
+			(uuid "b7dd437b-566d-4af4-a0e4-45f33e8597d9")
 		)
 		(instances
 			(project "CTS-SAT-2 CSS in-house"
@@ -8617,10 +8617,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "17fddd5f-2e70-44b5-9c7d-5cb2f22067ed")
+			(uuid "17fddd5f-2e70-44b5-9c7d-5cb2f22067ef")
 		)
 		(pin "1"
-			(uuid "b7dd437b-566d-4af4-a0e4-45f33e8597d8")
+			(uuid "b7dd437b-566d-4af4-a0e4-45f33e8597da")
 		)
 		(instances
 			(project "CTS-SAT-2 CSS in-house"
@@ -8863,10 +8863,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "17fddd5f-2e70-44b5-9c7d-5cb2f22067ed")
+			(uuid "17fddd5f-2e70-44b5-9c7d-5cb2f22067f0")
 		)
 		(pin "1"
-			(uuid "b7dd437b-566d-4af4-a0e4-45f33e8597d8")
+			(uuid "b7dd437b-566d-4af4-a0e4-45f33e8597db")
 		)
 		(instances
 			(project "CTS-SAT-2 CSS in-house"
@@ -9027,10 +9027,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "85a0ea21-259f-493b-89c0-ccfce38093b2")
+			(uuid "85a0ea21-259f-493b-89c0-ccfce38093b5")
 		)
 		(pin "2"
-			(uuid "d18d1423-7d66-472e-a227-b97bab26d076")
+			(uuid "d18d1423-7d66-472e-a227-b97bab26d079")
 		)
 		(instances
 			(project "CTS-SAT-2 CSS in-house"
@@ -9306,10 +9306,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "17fddd5f-2e70-44b5-9c7d-5cb2f22067ed")
+			(uuid "17fddd5f-2e70-44b5-9c7d-5cb2f22067f1")
 		)
 		(pin "1"
-			(uuid "b7dd437b-566d-4af4-a0e4-45f33e8597d8")
+			(uuid "b7dd437b-566d-4af4-a0e4-45f33e8597dc")
 		)
 		(instances
 			(project "CTS-SAT-2 CSS in-house"
@@ -10193,10 +10193,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "17fddd5f-2e70-44b5-9c7d-5cb2f22067ed")
+			(uuid "17fddd5f-2e70-44b5-9c7d-5cb2f22067f2")
 		)
 		(pin "1"
-			(uuid "b7dd437b-566d-4af4-a0e4-45f33e8597d8")
+			(uuid "b7dd437b-566d-4af4-a0e4-45f33e8597dd")
 		)
 		(instances
 			(project "CTS-SAT-2 CSS in-house"
@@ -10275,10 +10275,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "85a0ea21-259f-493b-89c0-ccfce38093b2")
+			(uuid "85a0ea21-259f-493b-89c0-ccfce38093b6")
 		)
 		(pin "2"
-			(uuid "d18d1423-7d66-472e-a227-b97bab26d076")
+			(uuid "d18d1423-7d66-472e-a227-b97bab26d07a")
 		)
 		(instances
 			(project "CTS-SAT-2 CSS in-house"
@@ -10439,7 +10439,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 391.16 86.868 90)
 			(hide yes)
 			(show_name no)
@@ -10726,10 +10726,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "85a0ea21-259f-493b-89c0-ccfce38093b2")
+			(uuid "85a0ea21-259f-493b-89c0-ccfce38093b7")
 		)
 		(pin "2"
-			(uuid "d18d1423-7d66-472e-a227-b97bab26d076")
+			(uuid "d18d1423-7d66-472e-a227-b97bab26d07b")
 		)
 		(instances
 			(project "CTS-SAT-2 CSS in-house"
@@ -10891,10 +10891,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "85a0ea21-259f-493b-89c0-ccfce38093b2")
+			(uuid "85a0ea21-259f-493b-89c0-ccfce38093b8")
 		)
 		(pin "2"
-			(uuid "d18d1423-7d66-472e-a227-b97bab26d076")
+			(uuid "d18d1423-7d66-472e-a227-b97bab26d07c")
 		)
 		(instances
 			(project "CTS-SAT-2 CSS in-house"
@@ -11214,10 +11214,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "17fddd5f-2e70-44b5-9c7d-5cb2f22067ed")
+			(uuid "17fddd5f-2e70-44b5-9c7d-5cb2f22067f3")
 		)
 		(pin "1"
-			(uuid "b7dd437b-566d-4af4-a0e4-45f33e8597d8")
+			(uuid "b7dd437b-566d-4af4-a0e4-45f33e8597de")
 		)
 		(instances
 			(project "CTS-SAT-2 CSS in-house"
