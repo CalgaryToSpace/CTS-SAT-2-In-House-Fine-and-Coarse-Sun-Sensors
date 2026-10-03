@@ -4834,16 +4834,6 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 162.56) (xy 63.5 162.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "86a1bbf8-88f3-4af0-8fc3-2595278a8857")
-	)
-	(wire
-		(pts
 			(xy 321.31 177.8) (xy 331.47 177.8)
 		)
 		(stroke
@@ -6433,7 +6423,7 @@
 		(uuid "391614f2-a122-40da-b561-91d04a4faa06")
 	)
 	(label "ARRAY_SIGNAL_1"
-		(at 63.5 162.56 0)
+		(at 62.23 162.56 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6643,7 +6633,7 @@
 		(uuid "b3896a31-196d-41ca-b419-0ba8da8fdd55")
 	)
 	(label "ARRAY_SIGNAL_4"
-		(at 63.5 215.9 0)
+		(at 62.23 215.9 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8275,10 +8265,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "612d3f3e-a782-4d0f-b8df-37c481ecca05")
+			(uuid "612d3f3e-a782-4d0f-b8df-37c481ecca06")
 		)
 		(pin "2"
-			(uuid "8ed46146-452d-4cd5-9554-9894ddca95ba")
+			(uuid "8ed46146-452d-4cd5-9554-9894ddca95bb")
 		)
 		(instances
 			(project "CTS-SAT-2 CSS in-house"
@@ -9566,10 +9556,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "6ba71194-e908-4a98-80f3-5d26716bc9cc")
+			(uuid "6ba71194-e908-4a98-80f3-5d26716bc9cd")
 		)
 		(pin "2"
-			(uuid "96a573eb-be97-4460-aa9d-e0d675bdbcae")
+			(uuid "96a573eb-be97-4460-aa9d-e0d675bdbcaf")
 		)
 		(instances
 			(project "CTS-SAT-2 CSS in-house"
