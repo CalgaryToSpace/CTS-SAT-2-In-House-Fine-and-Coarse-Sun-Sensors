@@ -1058,12 +1058,6 @@
 		(path "/151217ee-be12-4af7-afd6-3690406654aa")
 		(sheetname "/")
 		(sheetfile "CTS-SAT-2 CSS in-house.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1345,6 +1339,29 @@
 			)
 			(layer "F.Fab")
 			(uuid "b0a53004-9119-47c6-a434-834ff7af0924")
+		)
+		(fp_text user "*"
+			(at -1.5875 0 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(uuid "129ee4f5-4ebd-4c44-b9cd-9bfd0360d70c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "*"
+			(at -1.5875 0 0)
+			(layer "F.SilkS")
+			(uuid "ec8c3ac3-9a4b-4659-88bd-edaf05b298cf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
 		)
 		(fp_text user "*"
 			(at -0.7493 0 0)
@@ -1632,12 +1649,6 @@
 		(path "/b2c95b70-0260-43b9-b54e-47987687fb20")
 		(sheetname "/")
 		(sheetfile "CTS-SAT-2 CSS in-house.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "5" "6" "7" "14" "13" "12" "11" "10" "9" "8")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2438,6 +2449,29 @@
 				)
 			)
 		)
+		(fp_text user "*"
+			(at -1.8669 -2.4765 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "55c0e75b-f42e-4f0a-8f0f-6d1b04f6fcba")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "*"
+			(at -1.8669 -2.4765 270)
+			(layer "F.Fab")
+			(uuid "9c67660f-09dd-4227-99b5-d5a23beb0232")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(pad "1" smd rect
 			(at -2.921 -1.950001 270)
 			(size 1.4732 0.3556)
@@ -2767,12 +2801,6 @@
 		(path "/64ccc5e2-ef16-4b1d-8932-7097a842fb50")
 		(sheetname "/")
 		(sheetfile "CTS-SAT-2 CSS in-house.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3054,6 +3082,29 @@
 			)
 			(layer "F.Fab")
 			(uuid "37e26bcf-a5cc-423e-adb4-e0c14b414751")
+		)
+		(fp_text user "*"
+			(at -1.5875 0 0)
+			(layer "F.SilkS")
+			(uuid "2408cd59-d110-429a-80e6-80250fb9896a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "*"
+			(at -1.5875 0 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(uuid "4cc5c8b4-09ff-4340-b39f-70e30a104cf2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
 		)
 		(fp_text user "*"
 			(at -0.7493 0 0)
@@ -4499,12 +4550,6 @@
 		(path "/1a21a4e7-a76b-4a39-8742-bb1f99258ab8")
 		(sheetname "/")
 		(sheetfile "CTS-SAT-2 CSS in-house.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4786,6 +4831,29 @@
 			)
 			(layer "F.Fab")
 			(uuid "7c7c0fe9-97bd-4426-bc36-2b06134c4b8f")
+		)
+		(fp_text user "*"
+			(at -1.5875 0 0)
+			(layer "F.SilkS")
+			(uuid "0b1a0c28-e830-4282-b3d9-d4c4154a03dc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "*"
+			(at -1.5875 0 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(uuid "e4985db7-2b69-43b1-82c3-2cf605333a5c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
 		)
 		(fp_text user "*"
 			(at -0.7493 0 0)
@@ -5219,12 +5287,6 @@
 		(path "/87cef6ea-6b6d-40b8-9539-454890c3ee4e")
 		(sheetname "/")
 		(sheetfile "CTS-SAT-2 CSS in-house.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "5" "6" "7" "14" "13" "12" "11" "10" "9" "8")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6152,6 +6214,17 @@
 			(uuid "f46a50de-f429-4d75-a3c9-4349d11e8117")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/Libraries/ul_POPA4383PWR/PW0014A.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 		(layer "F.Cu")
@@ -6355,12 +6428,6 @@
 		(path "/281a1987-2030-40c1-8faf-19d97fd1f48f")
 		(sheetname "/")
 		(sheetfile "CTS-SAT-2 CSS in-house.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6644,6 +6711,29 @@
 			(uuid "fee2f7e4-3cf7-4a18-bb93-d47f420a0ed8")
 		)
 		(fp_text user "*"
+			(at -1.5875 0 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(uuid "4c5e13bd-b8c7-49a6-b5d6-6667207c908c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "*"
+			(at -1.5875 0 0)
+			(layer "F.SilkS")
+			(uuid "b3d76fb4-6fc6-4da1-8035-cb3e36aa9ab1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "*"
 			(at -0.7493 0 0)
 			(layer "F.Fab")
 			(uuid "c3d82df0-ce62-4165-a25c-8ca7489a5b74")
@@ -6659,6 +6749,18 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(uuid "d1c940f9-cb7f-47d2-bce8-5361973aba0c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "99441d9c-32d1-46f0-824d-a8c404831bbd")
 			(effects
 				(font
 					(size 1 1)
@@ -7945,12 +8047,6 @@
 		(path "/8f1796fd-c251-4476-b33c-3ddc730d275b")
 		(sheetname "/")
 		(sheetfile "CTS-SAT-2 CSS in-house.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8272,6 +8368,18 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(uuid "91305b48-8bfe-48c0-bda4-5bee12933b03")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "a660c67b-149b-45e5-9221-d698f17932d3")
 			(effects
 				(font
 					(size 1 1)
@@ -10786,12 +10894,6 @@
 		(path "/415a8b91-5c72-43e8-9331-56e737389df4")
 		(sheetname "/")
 		(sheetfile "CTS-SAT-2 CSS in-house.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -11113,6 +11215,18 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(uuid "cdf220d7-3ec9-403c-9c58-403dcc22126d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "09adfd16-10c8-49fb-b79f-ac752d78f147")
 			(effects
 				(font
 					(size 1 1)
@@ -13125,12 +13239,6 @@
 		(path "/9b63ed89-bf57-4a06-b633-25cfcd16a595")
 		(sheetname "/")
 		(sheetfile "CTS-SAT-2 CSS in-house.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13414,6 +13522,29 @@
 			(uuid "d0bbd19b-765f-451f-a051-6fc08995069e")
 		)
 		(fp_text user "*"
+			(at -1.5875 0 0)
+			(layer "F.SilkS")
+			(uuid "04e867cc-6b22-4ad2-877c-ab95e19e2eed")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "*"
+			(at -1.5875 0 0)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(uuid "059856b1-0728-44e5-a8db-83aa617e71fe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "*"
 			(at -0.7493 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13429,6 +13560,18 @@
 			(at -0.7493 0 0)
 			(layer "F.Fab")
 			(uuid "ba217e8b-4ba1-41ba-8c2e-5e23496ef9b0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "bbe1e0cf-5d0e-4e9a-bf53-fe80818f7adc")
 			(effects
 				(font
 					(size 1 1)
@@ -14408,12 +14551,6 @@
 		(path "/8ff38f63-5271-499e-8b34-4aee08cc4087")
 		(sheetname "/")
 		(sheetfile "CTS-SAT-2 CSS in-house.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -14735,6 +14872,18 @@
 			(at -0.7493 0 0)
 			(layer "F.Fab")
 			(uuid "a8df49dd-efc5-4f95-bb20-eb90a112c334")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "799093e3-b048-4fe0-802e-239e65f43faa")
 			(effects
 				(font
 					(size 1 1)
