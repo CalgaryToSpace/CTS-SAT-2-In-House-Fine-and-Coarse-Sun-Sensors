@@ -6994,7 +6994,7 @@
 			(uuid "d18d1423-7d66-472e-a227-b97bab26d076")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "C8")
 					(unit 1)
@@ -7074,7 +7074,7 @@
 			(uuid "4c2275b5-4649-4b98-85c6-2e106bb5689a")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "C9")
 					(unit 1)
@@ -7154,7 +7154,7 @@
 			(uuid "e82b0d23-9048-42a4-9ff5-08b6e305077d")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "#PWR010")
 					(unit 1)
@@ -7233,7 +7233,7 @@
 			(uuid "711da7d9-8ba4-4baa-9b80-e3a04c54ed43")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "C27")
 					(unit 1)
@@ -7316,7 +7316,7 @@
 			(uuid "04a470d6-5fec-416d-8916-301ef204334a")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "C4")
 					(unit 1)
@@ -7398,7 +7398,7 @@
 			(uuid "dfc2c8fa-05b1-40ab-9bad-d2eaccae4fb6")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "J12")
 					(unit 1)
@@ -7479,7 +7479,7 @@
 			(uuid "a7c2ac6c-2a4d-4d41-9669-f3df380d1344")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "C17")
 					(unit 1)
@@ -7562,7 +7562,7 @@
 			(uuid "3ad3579b-b224-4174-befe-e1d42d40b6cc")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "C11")
 					(unit 1)
@@ -7644,7 +7644,7 @@
 			(uuid "d18d1423-7d66-472e-a227-b97bab26d077")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "C13")
 					(unit 1)
@@ -7726,7 +7726,7 @@
 			(uuid "2486d9cd-ce25-44a2-a6fb-c23047991d70")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "C12")
 					(unit 1)
@@ -7808,7 +7808,7 @@
 			(uuid "0a7555a3-2447-4c33-94df-3de875139f04")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "LED1")
 					(unit 1)
@@ -7890,7 +7890,7 @@
 			(uuid "0a7555a3-2447-4c33-94df-3de875139f05")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "LED6")
 					(unit 1)
@@ -8017,7 +8017,7 @@
 			(uuid "0e46ff61-072e-41f7-b5ca-3b01d86c72e4")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "U3")
 					(unit 1)
@@ -8096,7 +8096,7 @@
 			(uuid "8ed46146-452d-4cd5-9554-9894ddca95ba")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "C25")
 					(unit 1)
@@ -8178,7 +8178,7 @@
 			(uuid "0a7555a3-2447-4c33-94df-3de875139f06")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "LED4")
 					(unit 1)
@@ -8260,7 +8260,7 @@
 			(uuid "fe069dd9-d8ac-45e6-83dc-f17725c9376b")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "R3")
 					(unit 1)
@@ -8339,7 +8339,7 @@
 			(uuid "8ed46146-452d-4cd5-9554-9894ddca95bb")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "C24")
 					(unit 1)
@@ -8418,7 +8418,7 @@
 			(uuid "96a573eb-be97-4460-aa9d-e0d675bdbcae")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "C23")
 					(unit 1)
@@ -8496,7 +8496,7 @@
 			(uuid "2ad11884-b952-4cc7-af24-17ddd5a9ee3a")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "#PWR01")
 					(unit 1)
@@ -8578,7 +8578,7 @@
 			(uuid "b7dd437b-566d-4af4-a0e4-45f33e8597d8")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "R13")
 					(unit 1)
@@ -8657,7 +8657,7 @@
 			(uuid "2593ca6c-0c37-4e4e-ae87-f25e266f35de")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "#PWR08")
 					(unit 1)
@@ -8740,7 +8740,7 @@
 			(uuid "fdd292f5-764e-4607-8dd1-213634f949b0")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "C10")
 					(unit 1)
@@ -8822,7 +8822,7 @@
 			(uuid "d18d1423-7d66-472e-a227-b97bab26d078")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "C16")
 					(unit 1)
@@ -8901,7 +8901,7 @@
 			(uuid "7c807b07-7774-44f6-ba0d-1b7c6938da45")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "R23")
 					(unit 1)
@@ -8984,7 +8984,7 @@
 			(uuid "f7e5e4d1-fe79-4949-85a7-96d0e9dd95f3")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "R4")
 					(unit 1)
@@ -9066,7 +9066,7 @@
 			(uuid "0a7555a3-2447-4c33-94df-3de875139f07")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "LED7")
 					(unit 1)
@@ -9148,7 +9148,7 @@
 			(uuid "b7dd437b-566d-4af4-a0e4-45f33e8597d9")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "R11")
 					(unit 1)
@@ -9227,7 +9227,7 @@
 			(uuid "29adcd66-a915-4a7e-910a-37141771b8f7")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "R22")
 					(unit 1)
@@ -9306,7 +9306,7 @@
 			(uuid "1ba1e451-90a2-4273-a9f6-b0858950fd19")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "C26")
 					(unit 1)
@@ -9387,7 +9387,7 @@
 			(uuid "a3a4f4e5-66a4-4196-adb0-0287379e4418")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "R18")
 					(unit 1)
@@ -9469,7 +9469,7 @@
 			(uuid "6055d033-4cc6-4009-997a-9062cb2497e7")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "R5")
 					(unit 1)
@@ -9551,7 +9551,7 @@
 			(uuid "0a7555a3-2447-4c33-94df-3de875139f08")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "LED5")
 					(unit 1)
@@ -9630,7 +9630,7 @@
 			(uuid "96a573eb-be97-4460-aa9d-e0d675bdbcaf")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "C18")
 					(unit 1)
@@ -9708,7 +9708,7 @@
 			(uuid "fb98e3ff-c7da-4412-924d-835e49e31ca4")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "#PWR02")
 					(unit 1)
@@ -9790,7 +9790,7 @@
 			(uuid "5477ec31-c0cd-4d61-9a2d-b70ec84ece26")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "R9")
 					(unit 1)
@@ -9871,7 +9871,7 @@
 			(uuid "b7dd437b-566d-4af4-a0e4-45f33e8597da")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "R10")
 					(unit 1)
@@ -9953,7 +9953,7 @@
 			(uuid "33822243-a7b6-4f80-b832-c3316b0d4347")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "C5")
 					(unit 1)
@@ -10035,7 +10035,7 @@
 			(uuid "fbed8f13-b847-438b-85e8-ad4d9bda22e3")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "C19")
 					(unit 1)
@@ -10117,7 +10117,7 @@
 			(uuid "b7dd437b-566d-4af4-a0e4-45f33e8597db")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "R14")
 					(unit 1)
@@ -10196,7 +10196,7 @@
 			(uuid "8359513c-b13f-456c-b541-8bb94a574f37")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "#PWR012")
 					(unit 1)
@@ -10278,7 +10278,7 @@
 			(uuid "9338c9ff-9ab8-4439-8faa-2e2147f36e88")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "J13")
 					(unit 1)
@@ -10360,7 +10360,7 @@
 			(uuid "d18d1423-7d66-472e-a227-b97bab26d079")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "C7")
 					(unit 1)
@@ -10479,7 +10479,7 @@
 			(uuid "b7c3d172-2983-4cc3-ab84-b45117c41f16")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "U1")
 					(unit 1)
@@ -10557,7 +10557,7 @@
 			(uuid "579a3611-0018-4fa1-b46e-d6aa9e956442")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "#PWR05")
 					(unit 1)
@@ -10639,7 +10639,7 @@
 			(uuid "b7dd437b-566d-4af4-a0e4-45f33e8597dc")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "R16")
 					(unit 1)
@@ -10721,7 +10721,7 @@
 			(uuid "0a7555a3-2447-4c33-94df-3de875139f09")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "LED3")
 					(unit 1)
@@ -10803,7 +10803,7 @@
 			(uuid "0a7555a3-2447-4c33-94df-3de875139f0a")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "LED2")
 					(unit 1)
@@ -10884,7 +10884,7 @@
 			(uuid "c121a6b0-85dd-4676-aeb4-8d8edb49ed07")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "J19")
 					(unit 1)
@@ -10963,7 +10963,7 @@
 			(uuid "dafde6d0-0df5-4e5c-8a5f-f83c8a50caa8")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "C22")
 					(unit 1)
@@ -11044,7 +11044,7 @@
 			(uuid "eda102f4-4371-4606-ae9c-fd0979ee18f8")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "C6")
 					(unit 1)
@@ -11126,7 +11126,7 @@
 			(uuid "cef24a73-9444-482a-95b4-6a6b6d15205a")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "LED8")
 					(unit 1)
@@ -11204,7 +11204,7 @@
 			(uuid "d2bd487b-1416-4185-87b9-40415efb59d8")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "#PWR03")
 					(unit 1)
@@ -11283,7 +11283,7 @@
 			(uuid "9180b5c9-0d80-40fe-893e-0b4c962d6a8e")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "#PWR011")
 					(unit 1)
@@ -11364,7 +11364,7 @@
 			(uuid "c121a6b0-85dd-4676-aeb4-8d8edb49ed08")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "J18")
 					(unit 1)
@@ -11446,7 +11446,7 @@
 			(uuid "92c78736-64ec-41ae-8f96-f5bf5584a1a5")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "R6")
 					(unit 1)
@@ -11528,7 +11528,7 @@
 			(uuid "b7dd437b-566d-4af4-a0e4-45f33e8597dd")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "R12")
 					(unit 1)
@@ -11610,7 +11610,7 @@
 			(uuid "d18d1423-7d66-472e-a227-b97bab26d07a")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "C15")
 					(unit 1)
@@ -11729,7 +11729,7 @@
 			(uuid "25ace615-91a8-424b-9ea9-6354b5cf6572")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "U2")
 					(unit 1)
@@ -11807,7 +11807,7 @@
 			(uuid "84128f2f-a74d-41a1-975d-da0c4396c002")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "#PWR07")
 					(unit 1)
@@ -11886,7 +11886,7 @@
 			(uuid "5c744e95-f750-44e3-9404-82ca9cd9dcb3")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "R1")
 					(unit 1)
@@ -11968,7 +11968,7 @@
 			(uuid "ea1be755-4dca-447a-a372-3499c8dc288b")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "R8")
 					(unit 1)
@@ -12056,7 +12056,7 @@
 			(uuid "8857e093-bff7-4ca9-bdea-9649816605a6")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "J1")
 					(unit 1)
@@ -12138,7 +12138,7 @@
 			(uuid "d18d1423-7d66-472e-a227-b97bab26d07b")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "C1")
 					(unit 1)
@@ -12221,7 +12221,7 @@
 			(uuid "f3e8186d-620d-49cb-bcaa-00da88a2ca43")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "R7")
 					(unit 1)
@@ -12303,7 +12303,7 @@
 			(uuid "b7f851ef-be52-4429-8e73-8eb2d1aa1a5c")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "R17")
 					(unit 1)
@@ -12385,7 +12385,7 @@
 			(uuid "d18d1423-7d66-472e-a227-b97bab26d07c")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "C14")
 					(unit 1)
@@ -12464,7 +12464,7 @@
 			(uuid "36506dec-f6c4-42c9-9651-99aac76b6ea1")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "C21")
 					(unit 1)
@@ -12542,7 +12542,7 @@
 			(uuid "39ea6623-e5e1-4d14-babc-c207dec71efa")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "#PWR06")
 					(unit 1)
@@ -12621,7 +12621,7 @@
 			(uuid "e82b0d23-9048-42a4-9ff5-08b6e3050780")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "#PWR09")
 					(unit 1)
@@ -12704,7 +12704,7 @@
 			(uuid "d5bfec74-4b82-4747-8c82-515d26e59692")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "C3")
 					(unit 1)
@@ -12786,7 +12786,7 @@
 			(uuid "b7dd437b-566d-4af4-a0e4-45f33e8597de")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "R15")
 					(unit 1)
@@ -12865,7 +12865,7 @@
 			(uuid "1b069a82-b7ad-4136-8141-b7c533898f30")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "#PWR04")
 					(unit 1)
@@ -12944,7 +12944,7 @@
 			(uuid "7c807b07-7774-44f6-ba0d-1b7c6938da46")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "R20")
 					(unit 1)
@@ -13026,7 +13026,7 @@
 			(uuid "de976208-e145-421e-8593-83f8d24a6c7e")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "C2")
 					(unit 1)
@@ -13105,7 +13105,7 @@
 			(uuid "c65ba4a8-4b1a-4e67-8a1a-3e0d0f8e555c")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "R24")
 					(unit 1)
@@ -13185,7 +13185,7 @@
 			(uuid "1df2f0a6-0051-4f1d-85e5-67201cf7a074")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "C20")
 					(unit 1)
@@ -13267,7 +13267,7 @@
 			(uuid "7f6b176b-de10-4a05-8b5d-09787467f0d0")
 		)
 		(instances
-			(project "CTS-SAT-2 CSS in-house"
+			(project "FSS-7-Array"
 				(path "/bdf6b099-fed4-4424-bc3b-730e53e995d9"
 					(reference "R2")
 					(unit 1)

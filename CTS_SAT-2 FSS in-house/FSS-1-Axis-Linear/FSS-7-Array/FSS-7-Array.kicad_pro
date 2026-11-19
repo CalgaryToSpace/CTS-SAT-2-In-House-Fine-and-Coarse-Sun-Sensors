@@ -501,7 +501,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "CTS-SAT-2 CSS in-house.kicad_pro",
+    "filename": "FSS-7-Array.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -743,8 +743,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "CTS-SAT-2 CSS in-house.kicad_sch",
-        "name": "CTS-SAT-2 CSS in-house",
+        "filename": "FSS-7-Array.kicad_sch",
+        "name": "FSS-7-Array",
         "uuid": "bdf6b099-fed4-4424-bc3b-730e53e995d9"
       }
     ],
