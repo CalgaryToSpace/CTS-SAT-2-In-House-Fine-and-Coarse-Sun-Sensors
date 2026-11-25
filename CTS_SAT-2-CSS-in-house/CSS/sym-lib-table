@@ -1,0 +1,7 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "Photodiode") (type "KiCad") (uri "${KIPRJMOD}/Libraries/VEMD4010X01/2026-10-24_19-02-46.kicad_sym") (options "") (descr ""))
+	(lib (name "2026-10-24_19-35-27") (type "KiCad") (uri "${KIPRJMOD}/Libraries/MCP6001T-IOT/2026-10-24_19-35-27.kicad_sym") (options "") (descr ""))
+	(lib (name "ADC") (type "KiCad") (uri "${KIPRJMOD}/Libraries/MCP3021A5T_E_OT/2026-10-31_16-39-57.kicad_sym") (options "") (descr ""))
+	(lib (name "Photodiode2") (type "KiCad") (uri "${KIPRJMOD}/Libraries/VEMD5060X01/2026-11-18_01-12-14.kicad_sym") (options "") (descr ""))
+)

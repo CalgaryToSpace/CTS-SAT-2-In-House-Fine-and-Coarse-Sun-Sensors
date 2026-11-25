@@ -1,0 +1,7 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Photodiode") (type "KiCad") (uri "${KIPRJMOD}/Libraries/VEMD4010X01/footprints.pretty") (options "") (descr ""))
+	(lib (name "OpAmp") (type "KiCad") (uri "${KIPRJMOD}/Libraries/MCP6001T-IOT/footprints.pretty") (options "") (descr ""))
+	(lib (name "ADC") (type "KiCad") (uri "${KIPRJMOD}/Libraries/MCP3021A5T_E_OT/footprints.pretty") (options "") (descr ""))
+	(lib (name "Photodiode2") (type "KiCad") (uri "${KIPRJMOD}/Libraries/VEMD5060X01/footprints.pretty") (options "") (descr ""))
+)
